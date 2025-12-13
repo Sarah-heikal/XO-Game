@@ -1,0 +1,6 @@
+guiXO/target/
+terminalXO/target/
+*.class
+*.log
+.idea/
+*.iml
